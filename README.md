@@ -1,5 +1,5 @@
 # codewars
 
-[![](https://www.codewars.com/users/alexlearnsai/badges/large)](https://www.codewars.com/users/alexlearnsai/)
+[![](https://www.codewars.com/users/alexgotchufam/badges/large)](https://www.codewars.com/users/alexgotchufam/)
 
 My codewars solutions
